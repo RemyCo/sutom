@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3510a7c6-2848-4d1a-9ab8-afb139bc4560/deploy-status)](https://app.netlify.com/sites/lucky-swan-350cf1/deploys)
+
 # SUTOM
 
 Jeu de lettres en ligne (et en français) basé sur Wordle. Le jeu se trouve à l'adresse https://sutom.nocle.fr
